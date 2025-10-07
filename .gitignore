@@ -1,0 +1,32 @@
+# Ignore PHP storm and VS Code settings
+.idea/
+.vscode/
+
+# Ignore OS generated files
+Thumbs.db
+.DS_Store
+
+# Ignore uploads and other user-generated content
+uploads/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore composer dependencies (if used)
+vendor/
+
+# Ignore node modules (if used)
+node_modules/
+
+# Ignore backup files
+*.bak
+*.tmp
+
+# Ignore cache
+.cache/
+
+# Ignore database config file
+db.php
